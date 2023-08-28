@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\bin\Debug\net6.0\StringCount2.exe
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\bin\Debug\net6.0\StringCount2.deps.json
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\bin\Debug\net6.0\StringCount2.runtimeconfig.json
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\bin\Debug\net6.0\StringCount2.dll
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\bin\Debug\net6.0\StringCount2.pdb
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\StringCount2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\StringCount2.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\StringCount2.AssemblyInfo.cs
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\StringCount2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\StringCount2.dll
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\refint\StringCount2.dll
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\StringCount2.pdb
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\StringCount2.genruntimeconfig.cache
+C:\Users\acer\Desktop\StringCount2\StringCount2\StringCount2\obj\Debug\net6.0\ref\StringCount2.dll
